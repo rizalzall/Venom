@@ -32,7 +32,7 @@ global.apilinode = ''// apikey   akun vps linode
 global.apitokendo = ''
 
 //database 
-global.urldb = 'mongodb+srv://rizalmhmd45:rizalrosyid123@rizal.wbyd6wy.mongodb.net/rizalmhmd45?retryWrites=true&w=majority&appName=rizal'; // kosongin aja tapi kalo mau pake database mongo db isi url mongo
+global.urldb = ''; // kosongin aja tapi kalo mau pake database mongo db isi url mongo
 
 global.limitawal = {
     premium: "Infinity",
